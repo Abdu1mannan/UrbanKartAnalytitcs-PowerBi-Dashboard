@@ -62,5 +62,5 @@ Campaign spend, conversions, and channel efficiency analysis.
 
 
 Tools Used
-- SQL (For Data cleaning, transformation, schema design)
+- PostGreSQL (For Data cleaning, transformation,EDA,Joining Clean tables to the Fact table)
 - Power BI Desktop(For Data Modeling,Creating DAX Measures to show insights and deeper analysis, Visualize Data)
