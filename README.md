@@ -9,7 +9,7 @@ The dashboard answers the following critical business questions:
 - How is revenue, profit, and order volume trending over time?
 - Which product categories and brands contribute the most to revenue and profit?
 - Are profits growing at the same pace as revenue?
-- 
+
 Product Performance
 - Which subcategories are the most profitable and which underperform?
 - Are there products generating high revenue but low profit margins?
