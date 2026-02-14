@@ -1,6 +1,6 @@
 UrbanKartAnalytitcs-PowerBi-Dashboard
-
-This project Transforms the raw data into actionable insights using SQL and Power BI.
+The business required a centralized reporting solution to monitor performance, identify profitability gaps, and evaluate marketing effectiveness using historical transactional and campaign data.
+This Analysis Transforms the raw data into actionable insights  using SQL and Power BI.
 
 The dashboard is designed to help decision-makers quickly understand performance, identify inefficiencies, and evaluate growth opportunities across sales, products, customers, and marketing campaigns.
 
@@ -25,7 +25,7 @@ Marketing Campaign Effectiveness
 - How efficient is marketing spend across channels?
 - Are higher spends translating into higher conversions?
 
-Project Workflow
+Analysis Workflow
 
 1. Raw Data Analysis 
    Initial exploration of sales, customer, product, and marketing campaign data to identify quality issues and inconsistencies.
